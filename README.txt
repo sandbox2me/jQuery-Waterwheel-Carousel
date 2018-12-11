@@ -16,3 +16,7 @@ CONTACT INFORMATION:
 
 BRIAN OSBORNE
 brian@bkosborne.com
+
+
+REMIX
+https://sandbox2me.github.io/jQuery-Waterwheel-Carousel/
